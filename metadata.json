@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "primula99@outlook.de",
+                "Name": "Anton-Lindauer"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "A widget to controll the night light",
+        "Icon": "applications-development",
+        "Id": "com.github.anton-lindauer.lightswitch",
+        "Name": "Light Switch",
+        "Version": "0.0.1-alpha",
+        "Website": "https://github.com/Anton-Lindauer/lightswitch",
+        "BugReportUrl": "https://github.com/Anton-Lindauer/lightswitch/issues"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
